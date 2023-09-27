@@ -1,3 +1,51 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+#background-title-section {
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('assets/unifesp-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: calc(0.464 * 100vw);
+}
+
+.section {
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
 .title {
-    font-size: 20px;
+    margin-left: 15%;
+    margin-top: 25%;
+    width: 25%;
+    font-size: 4vw;
+    color: white;
+    text-align: start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#first-polygon {
+    width: 45vw;
+    height: calc(0.464 * 100vw);
+    background-color: rgb(0, 0, 0);
+    clip-path: polygon(0 0%, 100% 0%, 75% 100%, 0% 100%);
+    float: left;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(sixth_image.jpg);
+}
+
+#unifesp-logo {
+    background-image: urL('/assets/unifesp-logo.png');
+    filter: invert(1);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    height: 100px;
+    margin-right: 1%;
+    margin-top: 1%;
 }
