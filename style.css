@@ -30,6 +30,16 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.subtitle {
+    margin-left: 15%;
+    margin-top: 1%;
+    width: 25%;
+    font-size: 2vw;
+    color: white;
+    text-align: start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 #first-polygon {
     width: 45vw;
     height: calc(0.464 * 100vw);
@@ -48,4 +58,29 @@ body {
     height: 100px;
     margin-right: 1%;
     margin-top: 1%;
+}
+
+#introduction-section {
+    background-color: #f8f8f8; /* Cor de fundo para a seção de investigação */
+    padding: 2% 10%;
+}
+
+#investigation-section {
+    background-color: #f8f8f8; /* Cor de fundo para a seção de investigação */
+    padding: 2% 10%;
+}
+
+.section-title {
+    font-size: 2.5vw;
+    color: #333; /* Cor do título da seção */
+}
+
+.subsection {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.subsection-title {
+    font-size: 1.5vw;
+    color: #333; /* Cor do título da seção */
 }
