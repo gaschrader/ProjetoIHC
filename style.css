@@ -22,7 +22,7 @@ body {
 
 .title {
     margin-left: 15%;
-    margin-top: 25%;
+    margin-top: 22%;
     width: 25%;
     font-size: 4vw;
     color: white;
@@ -53,7 +53,7 @@ body {
     background-image: urL('/assets/unifesp-logo.png');
     filter: invert(1);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
     background-size: contain;
     height: 100px;
     margin-right: 1%;
@@ -65,7 +65,7 @@ body {
     padding: 2% 10%;
 }
 
-#investigation-section {
+.describe-section {
     background-color: #f8f8f8; /* Cor de fundo para a seção de investigação */
     padding: 2% 10%;
 }
