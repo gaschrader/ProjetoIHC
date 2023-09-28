@@ -50,10 +50,10 @@ body {
 }
 
 #unifesp-logo {
-    background-image: urL('/assets/unifesp-logo.png');
+    background-image: urL('assets/unifesp-logo.png');
     filter: invert(1);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
     background-size: contain;
     height: 100px;
     margin-right: 1%;
