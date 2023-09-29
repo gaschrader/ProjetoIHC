@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #background-title-section {
@@ -83,4 +84,13 @@ body {
 .subsection-title {
     font-size: 1.5vw;
     color: #333; /* Cor do título da seção */
+}
+
+.inner-subsection {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.img-fluid {
+    padding-bottom: 1%;
 }
