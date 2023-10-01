@@ -22,7 +22,7 @@ a {
 
 #background-title-section {
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('assets/unifesp-logo.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('assets/unifesp-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
