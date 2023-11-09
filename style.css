@@ -108,6 +108,22 @@ p {
     padding: 2% 10%;
 }
 
+#ideation-section {
+    background-color: #373636;
+}
+
+#ideation-section p {
+    color: white;
+}
+
+#ideation-section li {
+    color: white;
+}
+
+#ideation-section li em {
+    color: white;
+}
+
 .section-title {
     font-family: satoshi-bold;
     color: #15AAFF;
