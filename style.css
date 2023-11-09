@@ -129,6 +129,13 @@ p {
     color: #15AAFF;
 }
 
+.steps {
+    font-size: 2.5em;
+    text-align: center;
+    padding-top: 2%;
+    color: #373636;
+}
+
 .subsection {
     margin-top: 2%;
     margin-left: 2%;
