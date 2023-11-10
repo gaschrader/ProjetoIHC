@@ -108,10 +108,6 @@ p {
     padding: 2% 10%;
 }
 
-#ideation-section {
-    background-color: #373636;
-}
-
 #ideation-section p {
     color: white;
 }
@@ -145,10 +141,12 @@ p {
     font-family: satoshi-bold;
     padding-top: 1%;
     padding-bottom: 1%;
+    font-size: 1.3em;
 }
 
 .subsection-title {
     color: #373636;
+    font-size: 1.5em;
 }
 
 .img-fluid {
@@ -227,4 +225,14 @@ p {
     min-width: 3rem;
     border-radius: 6.25rem;
     opacity: .5
+}
+
+hr.dashed {
+    border-top: 2px dashed #15AAFF;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.ideation-icon{
+    color: #274477
 }
