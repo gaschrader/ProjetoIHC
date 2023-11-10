@@ -137,6 +137,20 @@ p {
     margin-left: 2%;
 }
 
+.subsection span {
+    display: inline-flex;
+    gap: 2px;
+    align-items: end;
+}
+
+.subsection span h3 {
+    box-sizing: border-box;
+}
+
+.subsection span i {
+    padding-bottom: 14px;
+}
+
 .inner-subsection {
     font-family: satoshi-bold;
     padding-top: 1%;
