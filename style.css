@@ -167,6 +167,18 @@ p {
     padding-bottom: 1%;
 }
 
+#low-fidelity-proto-1 div img {
+    padding-top: 10px;
+}
+
+#low-fidelity-proto-2 {
+    height: 60%
+}
+
+#low-fidelity-proto-2 div img {
+    height: 60%;
+}
+
 .container {
     margin-top: 5%;
 }
