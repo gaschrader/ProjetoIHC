@@ -45,6 +45,7 @@ i {
 
 p {
     color: #373636;
+    text-align: justify;
 }
 
 #background-title-section {
@@ -167,11 +168,16 @@ p {
     padding-bottom: 1%;
 }
 
+#low-fidelity-proto-1 {
+    margin-bottom: 2vw;
+}
+
 #low-fidelity-proto-1 div img {
     padding-top: 10px;
 }
 
 #low-fidelity-proto-2 {
+    margin-bottom: 2vw;
     height: 60%
 }
 
@@ -181,6 +187,10 @@ p {
 
 .container {
     margin-top: 5%;
+}
+
+.container p {
+    text-align: center;
 }
 
 .timeline-steps {
